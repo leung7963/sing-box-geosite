@@ -1,3 +1,4 @@
+https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/fakeip-filter.yaml
 https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/ads.yaml
 https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/applications.yaml
 https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/private.yaml
