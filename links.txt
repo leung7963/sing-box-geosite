@@ -1,0 +1,1 @@
+https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/ads.list
