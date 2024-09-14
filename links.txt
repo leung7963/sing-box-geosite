@@ -3,3 +3,7 @@ https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/ads
 https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/applications.yaml
 https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/private.yaml
 https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/apple-cn.yaml
+https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/proxy.yaml
+https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/cn.yaml
+https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/privateip.yaml
+https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/cnip.yaml
