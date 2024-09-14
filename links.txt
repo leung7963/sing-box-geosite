@@ -1,1 +1,7 @@
-https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/ads.list
+{
+  "tag": "geosite-ads",
+  "type": "remote",
+  "format": "source",
+  "url": "https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/ads.list",
+  "download_detour": "auto"
+}
