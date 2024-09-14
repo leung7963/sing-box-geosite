@@ -175,5 +175,5 @@ for link in links:
     result_file_names.append(result_file_name)
 
 # 打印生成的文件名
-# for file_name in result_file_names:
-    # print(file_name)
+for file_name in result_file_names:
+    print(file_name)
