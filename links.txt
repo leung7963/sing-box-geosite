@@ -8,3 +8,4 @@ https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/cn.
 https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/privateip.yaml
 https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/cnip.yaml
 https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/telegramip.yaml
+https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt
