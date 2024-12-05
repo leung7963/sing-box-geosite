@@ -1,1 +1,1 @@
-https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/proxy.list
+https://github.com/DustinWin/ruleset_geodata/releases/download/clash-ruleset/proxy.yaml
